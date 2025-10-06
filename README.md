@@ -1,11 +1,10 @@
 ### Seja bem vindo ao meu profile no Github.
-![Saudação Dinâmica](https://awesome-github-profile-readme-dynamodb.vercel.app/api/v1/greet?name=Ricardo&timezone=America/Sao_Paulo)
 
 Tudo bem? 
 
 <br>
 
-Apenas para que você me conheça, meu nome ´Ricardo e eu sou um profissional da área de Segurança que atua com gestão, porém essa minha evolução dentro da área se deu por conta da minha facilidade em  resolver problemas, usar tecnologia e sugerir soluções de otimização e/ ou automação dentro da área. Atualmente estou focado em aprender mais sobre a **Engenharia de Software**, sempre fui apaixonado pela área e meu objetivo é conseguir criar automações de processos e construir soluções tecnológicas que agregam valor real. Possuo experiência prática no ecossistema do Microsoft Power Platform, mas busco aprimorar minhas habilidades com o mundo do pro-code (Python) e de Cloud Services.
+Apenas para que você me conheça, meu nome é Ricardo e eu sou um profissional da área de segurança que atua com gestão, porém essa minha evolução dentro da área se deu por conta da minha facilidade em  resolver problemas, usar tecnologia e sugerir soluções de otimização e/ ou automação dentro da área. Atualmente estou focado em aprender mais sobre a **Engenharia de Software**, sempre fui apaixonado pela área e meu objetivo é conseguir criar automações de processos e construir soluções tecnológicas que agregam valor real. Possuo experiência prática no ecossistema do Microsoft Power Platform, mas busco aprimorar minhas habilidades com o mundo do pro-code (Python) e de Cloud Services.
 
 Minha jornada atual é um **sprint** (ciclo de estudo focado) de 62 sessões para dominar os pilares do desenvolvimento de software moderno, com a mentoria de uma IA parceira, a DevPartner AI.
 
