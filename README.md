@@ -1,5 +1,5 @@
 ### 
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Saudação Dinâmica](https://awesome-github-profile-readme-dynamodb.vercel.app/api/v1/greet?name=Ricardo&timezone=America/Sao_Paulo)
 Tudo bem? Seja bem vindo ao meu profile no Github.
 
 <br>
