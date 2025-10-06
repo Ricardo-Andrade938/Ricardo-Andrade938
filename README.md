@@ -1,4 +1,6 @@
-### ![Dynamic Greeting](https://awesome-github-profile-readme-dynamodb.vercel.app/api/v1/greet?name=Ricardo&timezone=America/Sao_Paulo), Tudo bem? Seja bem vindo ao meu profile no Github.
+### ![Dynamic Greeting](https://awesome-github-profile-readme-dynamodb.vercel.app/api/v1/greet?name=Ricardo&timezone=America/Sao_Paulo)
+
+Tudo bem? Seja bem vindo ao meu profile no Github.
 
 <br>
 
@@ -25,9 +27,11 @@ Minha jornada atual é um **sprint** (ciclo de estudo focado) de 62 sessões par
 </p>
 <p align="left">
   <strong>Low-Code:</strong><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=powerapps,powerautomate,powerbi" />
-  </a>
+ <p align="left">
+  <strong>Low-Code:</strong><br>
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" alt="Power Apps" />
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" alt="Power Automate" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
 </p>
 <p align="left">
   <strong>Cloud:</strong><br>
@@ -45,9 +49,17 @@ Minha jornada atual é um **sprint** (ciclo de estudo focado) de 62 sessões par
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<p align="center">
-  <a href="https://github.com/Ricardo-Andrade938">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Andrade938&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" /><br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Andrade938&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Ricardo-Andrade938">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ricardo-Andrade938&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ricardo-Andrade938">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardo-Andrade938&layout=compact&langs_count=7&theme=dracula" />
+      </a>
+    </td>
+  </tr>
+</table>
